@@ -1,1 +1,2 @@
 HI, I am from git repo
+I am modified by GUI
